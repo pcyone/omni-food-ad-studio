@@ -53,4 +53,6 @@ node --check scripts/doubao.mjs
 ```
 
 历史及版本边界见 [验证记录](references/validation.md)。安装前请阅读 [SKILL.md](SKILL.md) 与教程；外部工具、服务账户和额度需自行准备，安装Skill不会自动授予登录或使用权限。
-关于作者： 2019年加入Crypto，ETH & BTC Holder | Alpha在职 | Defi | 空投 | 打新 | 早期项目研究 | 港股打新 | 持续分享 AI 内容、自动化、开发与产品实践； 实用教程｜工作流｜创意实验｜构建记录 个人站：http://ryanai.top 微信：ryanpeng999
+
+关于作者： 
+2019年加入Crypto，ETH & BTC Holder | Alpha在职 | Defi | 空投 | 打新 | 早期项目研究 | 港股打新 | 持续分享 AI 内容、自动化、开发与产品实践； 实用教程｜工作流｜创意实验｜构建记录 个人站：http://ryanai.top 微信：ryanpeng999
