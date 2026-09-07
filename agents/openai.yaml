@@ -1,0 +1,6 @@
+interface:
+  display_name: "Omni 高端美食广告"
+  short_description: "只给菜名，从资料研究和视频参考到四段 Omni 生成、连续配音与成片验收"
+  default_prompt: "使用 $omni-food-ad-studio，为子姜炒牛肉制作40秒竖屏高端美食广告，按流程自动执行并报告真实验收与授权状态。"
+policy:
+  allow_implicit_invocation: true
