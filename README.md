@@ -11,7 +11,7 @@
       <video src="https://github.com/user-attachments/assets/12f596cd-1403-494c-9810-a0bb17bc424f" width="100%" controls playsinline></video>
     </td>
     <td width="33.33%" align="center" valign="middle">
-      <strong>第 3 个视频待上传</strong>
+      <video src="https://github.com/user-attachments/assets/4820bc22-c179-47b0-a708-d41a56414ced" width="100%" controls playsinline></video>
     </td>
   </tr>
 </table>
