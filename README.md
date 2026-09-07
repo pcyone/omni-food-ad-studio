@@ -1,5 +1,14 @@
 # Omni 高端美食广告工作室
 
+
+https://github.com/user-attachments/assets/1548d344-792a-4fd9-beaa-f0c7c8373906
+
+
+
+https://github.com/user-attachments/assets/12f596cd-1403-494c-9810-a0bb17bc424f
+
+
+
 `omni-food-ad-studio` 是由 Codex 编排的美食广告制作 Skill：从菜名或自有素材开始，完成资料研究、参考剪辑、Flow 联合参考生成、连续豆包旁白、40秒竖屏合成，以及人工确认后的封面嵌入。
 
 ## 两份中文教程
